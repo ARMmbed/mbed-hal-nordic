@@ -1,6 +1,6 @@
 {
   "name": "mbed-hal-nordic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mbed low-level Hardware Abstraction Layer implementation for Nordic microcontrollers",
   "keywords": [
     "nordic",
@@ -14,7 +14,9 @@
   },
   "homepage": "https://github.com/ARMmbed/mbed-hal-nordic",
   "license": "Apache-2",
-  "dependencies": {"mbed-hal" : "*"},
+  "dependencies": {
+    "mbed-hal": "*"
+  },
   "targetDependencies": {
     "nrf51822": {
       "mbed-hal-nrf51822-mcu": "~0.0.1"
