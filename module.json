@@ -5,7 +5,8 @@
   "keywords": [
     "nordic",
     "mbed",
-    "HAL"
+    "HAL",
+    "mbed-official"
   ],
   "author": "Austin Blackstone <austin.blackstone@arm.com>",
   "repository": {
@@ -19,7 +20,7 @@
   },
   "targetDependencies": {
     "nrf51822": {
-      "mbed-hal-nrf51822-mcu": "~0.0.1"
+      "mbed-hal-nrf51822-mcu": "^1.0.0"
     }
   }
 }
