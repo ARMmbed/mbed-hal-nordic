@@ -8,7 +8,7 @@
     "HAL",
     "mbed-official"
   ],
-  "author": "Austin Blackstone <austin.blackstone@arm.com>",
+  "author": "Rohit Grover <rohit.grover@arm.com>",
   "repository": {
     "url": "git@github.com:ARMmbed/mbed-hal-nordic.git",
     "type": "git"
