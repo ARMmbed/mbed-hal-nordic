@@ -10,7 +10,7 @@
   ],
   "author": "Austin Blackstone <austin.blackstone@arm.com>",
   "repository": {
-    "url": "git@github.com:ARMmbed/mbed-hal-nordic.git",
+    "url": "https://github.com/ARMmbed/mbed-hal-nordic.git",
     "type": "git"
   },
   "homepage": "https://github.com/ARMmbed/mbed-hal-nordic",
