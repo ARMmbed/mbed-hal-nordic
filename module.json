@@ -15,9 +15,6 @@
   },
   "homepage": "https://github.com/ARMmbed/mbed-hal-nordic",
   "license": "Apache-2",
-  "dependencies": {
-    "mbed-hal": "*"
-  },
   "targetDependencies": {
     "nrf51822": {
       "mbed-hal-nrf51822-mcu": "^2.0.0"
