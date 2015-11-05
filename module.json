@@ -1,6 +1,6 @@
 {
   "name": "mbed-hal-nordic",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "mbed low-level Hardware Abstraction Layer implementation for Nordic microcontrollers",
   "keywords": [
     "nordic",
