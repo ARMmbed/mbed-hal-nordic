@@ -20,7 +20,7 @@
       "mbed-hal-nrf51822-mcu": "^2.0.0"
     },
     "nrf52832": {
-    	"mbed-hal-nrf52832-mcu": "^0.1.0"
+    	"mbed-hal-nrf52832-mcu": "ARMmbed/mbed-hal-nrf52832-mcu"
     }
   }
 }
